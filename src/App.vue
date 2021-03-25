@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link>
       <div></div>
+      <span>nihaihhu收的啥</span>
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
